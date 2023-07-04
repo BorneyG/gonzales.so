@@ -1,0 +1,12 @@
+¿Que es git hub?
+GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails 1. Fue comprado por Microsoft en junio del 2018Que es docker.
+¿Para que sirve?
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso 1. Con GitHub puedes controlar las versiones de tus proyectos, compartir tu código con otras personas, trabajar en equipo, tener un portafolio de trabajo y tener soporte para tus proyectos privados.
+¿Que es Docker?
+Es una plataforma de código abierto que permite a los desarrolladores crear, desplegar, ejecutar y gestionar aplicaciones en contenedores. Los contenedores son componentes estandarizados y ejecutables que combinan el código fuente de aplicación con las dependencias y las bibliotecas del sistema operativo (SO) necesarias para ejecutar dicho código en cualquier entorno 1. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que “contenedores” independientes se ejecuten dentro de una sola instancia de Linux
+¿Para que sirve?
+Docker es una plataforma de código abierto que sirve para construir, desplegar y gestionar aplicaciones en contenedores. Los contenedores permiten que varias aplicaciones funcionen en diferentes entornos complejos. Por ejemplo, Docker permite ejecutar el sistema de gestión de contenidos WordPress en sistemas Windows, Linux y macOS sin ningún problema
+Que es google console.
+Google Cloud Console es una interfaz web que te permite administrar y obtener información sobre todo lo que alimenta tu aplicación en la nube, incluyendo aplicaciones web, análisis de datos, máquinas virtuales, almacenes de datos, bases de datos, redes y servicios para desarrolladores. La consola de Google Cloud te ayuda a implementar, escalar y diagnosticar problemas de producción en una interfaz web simple.
+¿Para que sirve?
+La consola de Google Cloud proporciona una interfaz gráfica de usuario basada en la Web que puede usar para administrar sus proyectos y recursos de Google Cloud. Cuando uses la consola de Google Cloud, crea un proyecto nuevo o elige uno existente, y usa los recursos que crees en el contexto de ese proyecto.
